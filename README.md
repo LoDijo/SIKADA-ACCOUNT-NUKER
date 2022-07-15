@@ -1,4 +1,5 @@
-# SIKADA-ACCOUNT-NUKKER
+<div align="center">
+  # SIKADA-ACCOUNT-NUKER
 Account Nuker coded in python
 
 ## Something isn't working? Add me! 𝑺𝑰𝑲𝑨𝑫𝑨 (9skidW)#1258
